@@ -1,6 +1,6 @@
 # DIO - Dio_mysql_ecommerce - 1.0.0
 
-![mySQL](https://img.shields.io/static/v1?label=Python3&labelColor=navy&message=ok!✔&style=plastic&color=lightblue&logo=PYTHON&logoColor=lightblue)
+![mySQL]([https://img.shields.io/static/v1?label=Python3&labelColor=navy&message=ok!✔&style=plastic&color=lightblue&logo=PYTHON&logoColor=lightblue](https://img.shields.io/badge/MySQL-plastic?logo=mysql&logoColor=white&labelColor=blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?label=⚖License&logo=balance-scale&logoColor=white&style=plastic)](https://opensource.org/licenses/MIT)
 [![dio.me](https://img.shields.io/static/v1?label=⚫Dio.me&labelColor=black&message=ok!✔&color=purple&style=plastic&&logoXcolor=white)](https://web.dio.me/users/olhodelugarnenhum?tab=skills)
 
